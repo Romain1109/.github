@@ -62,6 +62,7 @@ and answering your questions.
 - Victor Nicolet [@Vicolet](https://github.com/Vicolet)
 - Axel Pittet [@Axwells](https://github.com/Axwells)
 - Pierric Ripoll [@Nyaaw](https://github.com/Nyaaw)
+- Mário André Rocha Ferraria [@Thynkon](https://github.com/Thynkon)
 - Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
 - David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 
