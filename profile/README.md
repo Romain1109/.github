@@ -66,6 +66,7 @@ and answering your questions.
 - Mário André Rocha Ferraria [@Thynkon](https://github.com/Thynkon)
 - Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
 - David Schildböck [@shadowkudo](https://github.com/shadowkudo)
+- Léon Surbeck [@Bananonymous](https://github.com/Bananonymous)
 
 ### DAI-TIC-C
 
