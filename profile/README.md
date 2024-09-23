@@ -97,6 +97,7 @@ and answering your questions.
 - Arthur Jacobs [@Arthur2479](https://github.com/Arthur2479)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
 - Dylan Langumier [@Dylan-Langumier](https://github.com/Dylan-Langumier)
+- Rodrigo Lopes dos Santos [@RodrigoLopesDos](https://github.com/RodrigoLopesDos)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
 - Mathieu Rabot [@Nomeos](https://github.com/Nomeos)
 - Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
