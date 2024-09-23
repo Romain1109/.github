@@ -53,6 +53,7 @@ and answering your questions.
 - Kénan Augsburger [@Mondotosz](https://github.com/mondotosz)
 - Tristan Baud [@NATSIIRT](https://github.com/NATSIIRT)
 - Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
+- Basile Buxtorf [@BasileBux](https://github.com/BasileBux)
 - Nicolas Carbonara [@Syseria](https://github.com/Syseria)
 - Florian Chollet [@luma2010](https://github.com/luma2010)
 - Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
