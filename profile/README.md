@@ -50,6 +50,7 @@ It helps us (the teaching staff) searching for someone when grading your work
 and answering your questions.
 -->
 
+- Kénan Augsburger [@Mondotosz](https://github.com/mondotosz)
 - Tristan Baud [@NATSIIRT](https://github.com/NATSIIRT)
 - Alex Berberat [@AlexB-HEIG](https://github.com/AlexB-HEIG)
 - Nicolas Carbonara [@Syseria](https://github.com/Syseria)
