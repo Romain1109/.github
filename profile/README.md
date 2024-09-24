@@ -72,6 +72,7 @@ and answering your questions.
 - Evan Rothen [@EVAN-ROTHEN](https://github.com/EVAN-ROTHEN)
 - David Schildböck [@shadowkudo](https://github.com/shadowkudo)
 - Léon Surbeck [@Bananonymous](https://github.com/Bananonymous)
+- Arno Tribolet [@arnoheigvd](https://github.com/arnoheigvd)
 
 ### DAI-TIC-C
 
