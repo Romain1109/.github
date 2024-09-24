@@ -59,6 +59,7 @@ and answering your questions.
 - Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 - Adam Gruber [@AdamoElProfesor](https://github.com/AdamoElProfesor)
+- Benjamin Kocher [@BKo1706](https://github.com/BKo1706)
 - Aude Laydu [@eau2](https://github.com/eau2)
 - Antoine Leresche [@A2va](https://github.com/A2va)
 - Maxime Lestiboudois [@MaximeLesti](https://github.com/MaximeLesti)
