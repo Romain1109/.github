@@ -58,6 +58,7 @@ and answering your questions.
 - Florian Chollet [@luma2010](https://github.com/luma2010)
 - Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
+- Adam Gruber [@AdamoElProfesor](https://github.com/AdamoElProfesor)
 - Aude Laydu [@eau2](https://github.com/eau2)
 - Antoine Leresche [@A2va](https://github.com/A2va)
 - Maxime Lestiboudois [@MaximeLesti](https://github.com/MaximeLesti)
