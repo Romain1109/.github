@@ -59,6 +59,7 @@ and answering your questions.
 - Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 - Aude Laydu [@eau2](https://github.com/eau2)
+- Antoine Leresche [@A2va](https://github.com/A2va)
 - Maxime Lestiboudois [@MaximeLesti](https://github.com/MaximeLesti)
 - Mathéo Lopez [@MathLopez](https://github.com/MathLopez)
 - Colin Moschard [@colinmoschard](https://github.com/colinmoschard)
