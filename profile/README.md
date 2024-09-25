@@ -56,6 +56,7 @@ and answering your questions.
 - Basile Buxtorf [@BasileBux](https://github.com/BasileBux)
 - Nicolas Carbonara [@Syseria](https://github.com/Syseria)
 - Florian Chollet [@luma2010](https://github.com/luma2010)
+- Leonard Cseres [@leonardcser](https://github.com/leonardcser)
 - Nils Donatantonio [@nilsdonatantonio](https://github.com/nilsdonatantonio)
 - Mathieu Emery [@mathieuemery](https://github.com/mathieuemery)
 - Adam Gruber [@AdamoElProfesor](https://github.com/AdamoElProfesor)
