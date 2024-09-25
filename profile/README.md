@@ -109,6 +109,7 @@ and answering your questions.
 - Rodrigo Lopes dos Santos [@RodrigoLopesDos](https://github.com/RodrigoLopesDos)
 - Raphaël Perret [@rp2709](https://github.com/rp2709)
 - Mathieu Rabot [@Nomeos](https://github.com/Nomeos)
+- Thirusan Rajadurai [@Thiru-sama](https://github.com/Thiru-sama)
 - Thomas Stäheli [@thomasstaheli](https://github.com/thomasstaheli)
 - Camille Theubet [@CamilleThHEIG](https://github.com/CamilleThHEIG)
 - Nathan Tschantz [@TschantzN](https://github.com/TschantzN)
