@@ -102,6 +102,7 @@ and answering your questions.
 - Nicolas Duprat [@skyrag](https://github.com/skyrag)
 - Guillaume Fragnière [@GFragniere](https://github.com/GFragniere)
 - Kilian Froidevaux [@kilianfroideva](https://github.com/kilianfroideva)
+- Romain Holzer [@Romain1109](https://github.com/Romain1109)
 - Aladin Iseni [@aladin-heig](https://github.com/aladin-heig)
 - Arthur Jacobs [@Arthur2479](https://github.com/Arthur2479)
 - Léonard Jouve [@LeonardJouve](https://github.com/LeonardJouve)
